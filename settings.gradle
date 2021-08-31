@@ -1,0 +1,2 @@
+rootProject.name = "VideoObjectDetect"
+include ':app'
